@@ -13,3 +13,5 @@ function applyColor(){
         container.children[i].innerText = generateColor()
     }
 }
+
+applyColor()
